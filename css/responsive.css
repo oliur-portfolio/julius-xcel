@@ -1,0 +1,406 @@
+@media (max-width: 1399.98px) {
+    .career-map h2 span {
+        display: block;
+    }
+
+    .interest-matcher__content h2 {
+        max-width: 950px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .job-image-top-layer {
+        right: 240px;
+    }
+
+    .job-thumb-middle {
+        top: 62px;
+        right: 426px;
+    }
+
+    .job-thumb-right {
+        right: 190px;
+    }
+
+    .course__images {
+        padding-left: 60px;
+    }
+}
+
+@media (max-width: 1199.98px) {
+    .container,
+    .container-lg,
+    .container-md,
+    .container-sm,
+    .container-xl,
+    .container-xxl {
+        max-width: 640px;
+        padding: 0;
+    }
+
+    .navbar-toggler {
+        background: transparent;
+        border: 0;
+        padding: 0;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    .navbar-nav {
+        gap: 24px;
+        padding-top: 30px;
+        padding-bottom: 20px;
+    }
+
+    .navbar-toggler-icon {
+        width: 28px;
+        height: 23px;
+        background-image: url("../images/hamburger.svg");
+        background-repeat: no-repeat;
+        background-size: contain;
+    }
+
+    .carousel-caption {
+        padding-left: 64px;
+    }
+
+    .slider-content {
+        max-width: 607px;
+    }
+
+    .slider-arrows {
+        left: 64px;
+    }
+
+    .carousel-indicators {
+        left: 194px;
+    }
+
+    .slide-bg3 {
+        background-position: right;
+    }
+
+    .career-map,
+    .interest-matcher,
+    .job-matcher,
+    .course,
+    .bootcamp {
+        height: auto;
+        padding-top: 60px;
+    }
+
+    .career-map .basic-area {
+        padding-right: 0;
+        gap: 60px;
+    }
+
+    .career-map__content p {
+        max-width: 100%;
+    }
+
+    .career-map__images {
+        width: 630px;
+    }
+
+    .career-image {
+        width: 580px;
+    }
+
+    .career-image-top-layer {
+        width: 430px;
+        top: 90px;
+        left: 200px;
+    }
+
+    .career-thumb-left-small {
+        width: 72px;
+    }
+
+    .career-thumb-left-big {
+        width: 112px;
+    }
+
+    .career-thumb-right-small {
+        width: 38px;
+    }
+
+    .career-thumb-right-big {
+        width: 72px;
+    }
+
+    .interest-matcher__team {
+        right: 196px;
+    }
+
+    .job-matcher {
+        margin-top: -35px;
+    }
+
+    .job-matcher__content {
+        margin-top: 0;
+        max-width: 100%;
+        margin-bottom: 60px;
+    }
+
+    .job-matcher__content h2 {
+        max-width: 100%;
+    }
+
+    .job-matcher__content h2 span,
+    .course__content h2 span {
+        display: block;
+    }
+
+    .job-matcher__images {
+        width: 637px;
+        padding-left: 0;
+        padding-bottom: 60px;
+    }
+
+    .job-image-top-layer {
+        right: 0;
+    }
+
+    .job-thumb-left {
+        bottom: 120px;
+        left: -45px;
+    }
+
+    .job-thumb-middle {
+        top: 62px;
+        right: 219px;
+    }
+
+    .job-thumb-right {
+        right: -28px;
+    }
+
+    .course__content {
+        margin-top: 0;
+        max-width: 100%;
+        margin-bottom: 60px;
+    }
+
+    .course__images {
+        padding-left: 0;
+    }
+
+    .bootcamp__images {
+        width: 645px;
+    }
+
+    .footer-nav {
+        gap: 30px;
+    }
+
+    .footer {
+        padding: 45px 0;
+    }
+}
+
+@media (max-width: 767.98px) {
+    .container,
+    .container-lg,
+    .container-md,
+    .container-sm,
+    .container-xl,
+    .container-xxl {
+        max-width: 100%;
+        padding: 0;
+    }
+
+    .carousel-item {
+        height: 700px;
+    }
+
+    .carousel-caption {
+        padding-left: 25px;
+        padding-right: 25px;
+        padding-bottom: 120px;
+    }
+
+    .slider-content {
+        max-width: 305px;
+    }
+
+    .slider-arrows {
+        left: 25px;
+        bottom: 44px;
+    }
+
+    .carousel-indicators {
+        left: 154px;
+        bottom: 65px;
+    }
+
+    .carousel-indicators [data-bs-target] {
+        width: 60px;
+    }
+
+    .career-map,
+    .interest-matcher,
+    .job-matcher,
+    .course,
+    .bootcamp {
+        padding-top: 50px;
+    }
+
+    .career-map__content,
+    .interest-matcher__content {
+        padding: 0 25px;
+    }
+
+    .career-map__content {
+        margin-top: 0;
+    }
+
+    .career-map .basic-area {
+        gap: 28px;
+    }
+
+    .career-map__images {
+        width: 100%;
+    }
+
+    .career-image {
+        width: 342px;
+    }
+
+    .career-image-top-layer {
+        width: 253px;
+        top: 50px;
+        left: 110px;
+    }
+
+    .career-thumb-left-small {
+        width: 42px;
+        left: 8px;
+        bottom: 65px;
+    }
+
+    .career-thumb-left-big {
+        width: 66px;
+        top: 60px;
+        left: 80px;
+    }
+
+    .career-thumb-right-small {
+        display: none;
+    }
+
+    .career-thumb-right-big {
+        width: 42px;
+        top: 30px;
+        right: 17px;
+        z-index: 50;
+    }
+
+    .interest-matcher__images {
+        width: 100%;
+        margin-top: 25px;
+    }
+
+    .interest-matcher__main {
+        width: 361px;
+        min-width: 361px;
+        margin-left: -48px;
+    }
+
+    .interest-matcher__team {
+        width: 237px;
+        right: -25px;
+        bottom: 11px;
+    }
+
+    .job-matcher {
+        margin-top: -23px;
+    }
+
+    .job-matcher__content {
+        padding: 0 25px;
+    }
+
+    .job-matcher__images {
+        width: 100%;
+        padding-bottom: 50px;
+    }
+
+    .job-matcher-image {
+        width: 373px;
+        min-width: 373px;
+        margin-left: -12px;
+    }
+
+    .job-image-top-layer {
+        width: 330px;
+        right: -143px;
+    }
+
+    .job-thumb-left {
+        width: 70px;
+        bottom: 115px;
+        left: 14px;
+    }
+
+    .job-thumb-middle {
+        width: 110px;
+        top: 50px;
+        right: 10px;
+    }
+
+    .job-thumb-right {
+        display: none;
+    }
+
+    .course {
+        overflow: hidden;
+    }
+
+    .course__content {
+        padding: 0 25px;
+    }
+
+    .course-image {
+        width: 384px;
+        margin-left: -5px;
+    }
+
+    .course-top-layer {
+        width: 245px;
+        bottom: -17px;
+        right: -38px;
+    }
+
+    .course__content h2 {
+        padding-right: 20px;
+    }
+
+    .bootcamp__content {
+        padding: 0 28px;
+    }
+
+    .bootcamp {
+        position: relative;
+        z-index: 80;
+    }
+
+    .bootcamp__images {
+        width: 329px;
+    }
+
+    .footer-nav {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 24px;
+    }
+
+    .footer__content {
+        padding: 0 25px;
+    }
+
+    .copyrights {
+        margin-bottom: 10px;
+    }
+}

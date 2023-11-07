@@ -1,0 +1,6 @@
+@font-face {
+    font-family: "IntegralCF-Regular";
+    src: url("IntegralCF-Regular.ttf") format("truetype"),
+        url("IntegralCF-Regular.woff") format("woff"),
+        url("IntegralCF-Regular.woff2") format("woff2");
+}
